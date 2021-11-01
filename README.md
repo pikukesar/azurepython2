@@ -2,6 +2,7 @@
 testing new test
 this is a test for recording
 
+
 [![Python application test with Github Actions](https://github.com/pikukesar/azurepython2/actions/workflows/main.yml/badge.svg)](https://github.com/pikukesar/azurepython2/actions/workflows/main.yml)
 
 # azure-ml-devops
