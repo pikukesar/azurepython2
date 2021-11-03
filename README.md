@@ -3,6 +3,11 @@ testing new test
 this is a test for recording
 
 
+
+You can watch this [YouTube Walkthrough of this process](https://youtu.be/wn59BHutCQA)
+
+
+
 [![Python application test with Github Actions](https://github.com/pikukesar/azurepython2/actions/workflows/main.yml/badge.svg)](https://github.com/pikukesar/azurepython2/actions/workflows/main.yml)
 
 # azure-ml-devops
