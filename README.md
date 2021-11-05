@@ -6,12 +6,16 @@ this is a test for recording
 
 You can watch this [YouTube Walkthrough of this process](https://youtu.be/wn59BHutCQA)
 
+![Git clone](https://github.com/pikukesar/azurepython2/blob/3e7997e89ea3257fe34338e561cf4d01e6fcde66/Demo%201-Screen%20Shot%20Git%20clone.png)
 
+![make all Test Passed](https://github.com/pikukesar/azurepython2/blob/3e7997e89ea3257fe34338e561cf4d01e6fcde66/Demo%201%20Make%20all%20passed.png)
+
+![Git Commit and Git Push](https://github.com/pikukesar/azurepython2/blob/3e7997e89ea3257fe34338e561cf4d01e6fcde66/Demo1%20Git%20commit%20and%20Push.png)
 
 [![Python application test with Github Actions](https://github.com/pikukesar/azurepython2/actions/workflows/main.yml/badge.svg)](https://github.com/pikukesar/azurepython2/actions/workflows/main.yml)
 
-# azure-ml-devops
-Azure DevOps workflow for ML
+# Project Overview . 
+This project shows 
 
 
 
