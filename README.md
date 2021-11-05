@@ -2,27 +2,27 @@
 testing new test
 this is a test for recording
 
-
+# Project Overview . 
+This project shows Devops lifecycle using continous integration and Delivery using git and git actions. The project also has tests that will be run when a change is made. Git Action will perform this action using yml build file.
 
 You can watch this [YouTube Walkthrough of this process](https://youtu.be/wn59BHutCQA)
 
-#Git clone
+# Git clone
 ![Git clone](https://github.com/pikukesar/azurepython2/blob/3e7997e89ea3257fe34338e561cf4d01e6fcde66/Demo%201-Screen%20Shot%20Git%20clone.png)
 
-#make all Test Passed
+# make all Test Passed
 ![make all Test Passed](https://github.com/pikukesar/azurepython2/blob/3e7997e89ea3257fe34338e561cf4d01e6fcde66/Demo%201%20Make%20all%20passed.png)
 
-#Git Commit and Git Push
+# Git Commit and Git Push
 ![Git Commit and Git Push](https://github.com/pikukesar/azurepython2/blob/3e7997e89ea3257fe34338e561cf4d01e6fcde66/Demo1%20Git%20commit%20and%20Push.png)
 
-#Github Actions Build
+# Github Actions Build
 ![Github Actions](https://github.com/pikukesar/azurepython2/blob/46e09792790aff6415daaaf8e376a285b923c9bd/Git%20Action%20build.png)
 
 
 [![Python application test with Github Actions](https://github.com/pikukesar/azurepython2/actions/workflows/main.yml/badge.svg)](https://github.com/pikukesar/azurepython2/actions/workflows/main.yml)
 
-# Project Overview . 
-This project shows 
+
 
 
 
